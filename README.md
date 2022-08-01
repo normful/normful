@@ -146,6 +146,7 @@ Recently, I've been writing docs in Confluence at work. I haven't spent heavy ti
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![NixOS](https://img.shields.io/static/v1?label=&message=NixOS&style=for-the-badge&color=black)
 
 ### Editors
 
@@ -195,7 +196,6 @@ I've used these in the past in read-only mode when working with UI/UX designers 
 
 I haven't used these yet but am very interested in learning and trying them.
 
-![NixOS](https://img.shields.io/static/v1?label=&message=NixOS&style=for-the-badge&color=black)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
