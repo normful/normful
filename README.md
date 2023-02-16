@@ -2,8 +2,6 @@
 
 I'm a full stack software engineer with 8 years of experience in early, mid, and late stage American and Canadian startups, developing B2B SaaS applications with backend servers and frontend web clients.
 
-I currently work for [Sisense](https://www.sisense.com).
-
 ### Software Interests
 
 - Go (Golang)
