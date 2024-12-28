@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a full stack software engineer with 8 years of experience in early, mid, and late stage American and Canadian startups, developing B2B SaaS applications with backend servers and frontend web clients.
+I'm a full stack software engineer with over 10 years of experience.
+
+I've mostly worked on backend web servers and frontend web clients.
 
 ### Software Interests
 
@@ -11,20 +13,39 @@ I'm a full stack software engineer with 8 years of experience in early, mid, and
 
 ## Tools and Technologies
 
-This is a summary of the main stuff I've used over the years. 
-
-My [GitHub Stars](https://github.com/normful?tab=stars) is an even more detailed list, but it's harder to distinguish between things I've used versus things I was only interested in.
-
 ### Favorite Programming Languages
-
-I currently prefer to develop in these languages and am open to contract work in these languages.
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-ffaff3.svg?style=for-the-badge&logo=apache-spark&logoColor=black)
 
-### Languages I know but avoid
+### Programming for fun in my spare time
 
-I've used all of these for several years but now avoid these because their code is harder to maintain in the long term.
+- [Programming challenges in Gleam at Exercism](https://exercism.org/profiles/normful)
+- [Building an interpreter in Gleam at Codecrafters](https://app.codecrafters.io/users/normful)
+
+### Stuff I'm excited to play around with soon
+
+- Minimal CSS libraries
+    - [Pico](https://github.com/picocss/pico)
+    - [Sakura](https://github.com/oxalorg/sakura)
+- [Svelte](https://svelte.dev)
+- [Alpine.js](https://alpinejs.dev)
+- [HTMX](https://htmx.org)
+- [Deno](https://deno.com)
+    - Deno Deploy
+    - Deno Jupyter
+    - Deno Compile
+    - Deno Fresh
+- [Templ](https://templ.guide)
+- [Echo](https://echo.labstack.com)
+- [Rust](https://www.rust-lang.org)
+- [Pocketbase](https://pocketbase.io)
+- [DuckDB](https://duckdb.org)
+
+### Languages that aren't my favorites
+
+I've used all of these for several years but now avoid writing in these directly because their code can become harder to maintain long term.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -83,6 +104,7 @@ I've used these all briefly before, but am still a novice at these:
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%237A42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -104,6 +126,7 @@ I've used these all briefly before, but am still a novice at these:
 ![GitLab CI/CD](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Argo CD](https://img.shields.io/badge/argo%20cd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
 ### Browsers
 
@@ -114,7 +137,6 @@ Vivaldi is my main browser, but I regularly use all of the following too:
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 ### Documentation Platforms
 
@@ -167,14 +189,13 @@ I love Neovim and use it 99% of the time for all languages (except Java, where I
 
 I've played around with these a few times, but still am a novice.
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Design
 
@@ -190,33 +211,15 @@ I've used these in the past in read-only mode when working with UI/UX designers 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-## Stuff I plan on using
-
-I haven't used these yet but am very interested in learning and trying them.
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=normful&count_private=true&show_icons=true" alt="github states"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=normful&count_private=true&show_icons=true" alt="github states"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=normful" alt="github streak stats"/>
 
 ### Contact
 
 <a href="https://www.linkedin.com/in/normansue/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/normful" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 ---
