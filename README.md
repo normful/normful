@@ -80,7 +80,7 @@ Used occasionally, for a total of less than 1 year (recently used languages firs
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?logo=shadcnui&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
+![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-black?logo=JSON%20web%20tokens)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?logo=chart.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
@@ -107,7 +107,7 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?logo=vagrant&logoColor=white)
 
-### Cloud Services
+### Cloud Platforms and Hosting Services
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
@@ -124,7 +124,7 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-%23181717.svg?logo=gitlab&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/TravisCI-%232B2F33.svg?logo=travis&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?logo=argo&logoColor=white)
-![Concourse CI](https://img.shields.io/static/v1?label=&message=Concourse&color=black)
+![Concourse CI](https://img.shields.io/badge/Concourse%20CI-%23000000.svg?logo=concourse&logoColor=white)
 
 ### Testing
 
@@ -133,9 +133,8 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
 ![pytest](https://img.shields.io/badge/pytest-fff?logo=pytest&logoColor=000)
 ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/Testing-Library-%23E33332?logo=testing-library&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
-![PHPUnit](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHP-Unit%23777BB4.svg?logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white)
 ![Pest](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
@@ -205,7 +204,7 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
 ![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)
 
-### Data & ML (Novice Level)
+### Data Analysis & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
@@ -226,7 +225,7 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?logo=inkscape&logoColor=080A13)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
 
-### Collaboration Tools
+### Project Management and Collaboration
 
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
@@ -261,7 +260,7 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
-### Editors & OS
+### Text Editors and IDEs
 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&logo=neovim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?logo=gnu-emacs&logoColor=white)
