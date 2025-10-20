@@ -84,7 +84,7 @@ Used occasionally, for a total of less than 1 year (recently used languages firs
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?logo=chart.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
-Detailed lists of libraries I've used are in my [GitHub Stars](https://github.com/normful?tab=stars)
+More libraries and tools I've used are in my [GitHub Stars lists](https://github.com/normful?tab=stars)
 
 ### Databases
 
