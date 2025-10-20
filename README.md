@@ -134,9 +134,8 @@ More detailed list of libraries I've used: [GitHub Stars list](https://github.co
 ![pytest](https://img.shields.io/badge/pytest-fff?logo=pytest&logoColor=000)
 ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
-![PHPUnit](https://img.shields.io/badge/PHP-Unit%23777BB4.svg?logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit%233C9CD7.svg?logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white)
-![Pest](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
 ### APIs & Tools
 
