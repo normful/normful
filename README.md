@@ -15,8 +15,8 @@ Most recently, I engineered solutions for the [UNIQLO](https://uniqlo.com) e-com
 - AI-assisted software development (agentic coding)
 - Go (Golang)
 - TypeScript
-- Backend development
-- Full stack development
+- Web server development (backend)
+- Web browser client development (frontend)
 
 ## Core Expertise
 
@@ -35,21 +35,21 @@ I've used these all for several years, but they're not my main focus:
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 
-Briefly explored:
+Used occasionally, for a total of less than 1 year (recently used languages first):
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?logo=erlang&logoColor=a90533)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-ffaff3.svg?logo=apache-spark&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?logo=erlang&logoColor=a90533)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-darkblue?logo=octave&logoColor=fcd683)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
 ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)
-![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-ffaff3.svg?logo=apache-spark&logoColor=black)
 
 ### Languages I'm Learning
 
@@ -80,10 +80,11 @@ Briefly explored:
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?logo=shadcnui&logoColor=fff)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?logo=chart.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
+
+More detailed list of libraries I've used in [my GitHub Stars list](https://github.com/stars/normful/lists/did-use).
 
 ### Databases
 
@@ -100,6 +101,7 @@ Briefly explored:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%237A42BC.svg?logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-%238A3391.svg?logo=pulumi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white)
@@ -126,12 +128,16 @@ Briefly explored:
 
 ### Testing
 
-![Jest](https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
-![Testing-Library](https://img.shields.io/badge/Testing-Library-%23E33332?logo=testing-library&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-%238D6748?logo=mocha&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182?logo=Jasmine&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-%238D6748?logo=mocha&logoColor=white)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+![pytest](https://img.shields.io/badge/pytest-fff?logo=pytest&logoColor=000)
 ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/Testing-Library-%23E33332?logo=testing-library&logoColor=white)
+![cypress](https://img.shields.io/badge/cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
+![PHPUnit](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white)
+![Pest](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
 ### APIs & Tools
 
@@ -140,28 +146,28 @@ Briefly explored:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)
 
-### Build & Package Management
+### Build Tools
 
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+
+### Package Managers
+
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23000000.svg?logo=npm&logoColor=white)
 ![bun](https://img.shields.io/badge/bun-000?logo=bun&logoColor=fff)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
 ![JSR](https://img.shields.io/badge/JSR-F7DF1E?logo=jsr&logoColor=000)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
 ![RubyGems](https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
 ### Monitoring & Observability
 
@@ -257,22 +263,22 @@ Briefly explored:
 
 ### Editors & OS
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&logo=neovim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?logo=gnu-emacs&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ### Terminals
 
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)
 ![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)
-![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)
+![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?logo=wezterm&logoColor=fff)
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=normful&count_private=true&show_icons=true" alt="github states"/>
+<img src="https://github-readme-stats.vercel.app/api?username=normful&count_private=true&show_icons=true" alt="github stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=normful" alt="github streak stats"/>
 
 ### Contact
