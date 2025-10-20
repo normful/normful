@@ -59,7 +59,7 @@ Used occasionally, for a total of less than 1 year (recently used languages firs
 
 ### AI Coding
 
-![opencode](https://img.shields.io/badge/opencode-000?logo=githubcopilot&logoColor=fff)
+![opencode](https://img.shields.io/badge/opencode-000?logo=framework&logoColor=fff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff)
 
 ### Frameworks & Libraries
