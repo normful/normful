@@ -34,8 +34,9 @@ I've used these all for several years, but they're not my main focus:
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)
 
-Used occasionally, for a total of less than 1 year (recently used languages first):
+Used occasionally, for a *total period* of roughly less than 365 days (even those days were over across several different years):
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
@@ -49,7 +50,8 @@ Used occasionally, for a total of less than 1 year (recently used languages firs
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
-![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)
+
+(Sorted with most recently used languages first)
 
 ### Languages I'm Learning
 
