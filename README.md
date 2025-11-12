@@ -36,7 +36,7 @@ I've used these all for several years, but they're not my main focus:
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)
 
-Used occasionally, for a *total period* of roughly less than 365 days (even those days were over across several different years):
+Used occasionally, for roughly a *total period* less than 365 days:
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
