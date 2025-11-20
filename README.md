@@ -18,28 +18,26 @@ Most recently, I engineered solutions for the [UNIQLO](https://uniqlo.com) e-com
 - Web server development (backend)
 - Web browser client development (frontend)
 
-## Core Expertise
+## Programming Languages
 
-### Main Programming Languages
+### Advanced level
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-
-### Other Languages
-
-I've used these all for several years, but they're not my main focus:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=JavaScript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white)
+
+### Intermediate level
+
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)
 
-Used occasionally, for roughly a *total period* less than 365 days:
+### Beginner level
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-ffaff3.svg?logo=apache-spark&logoColor=black)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white)
@@ -50,8 +48,6 @@ Used occasionally, for roughly a *total period* less than 365 days:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
-
-(Sorted with most recently used languages first)
 
 ### Languages I'm Learning
 
