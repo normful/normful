@@ -57,6 +57,7 @@ Most recently, I engineered solutions for the [UNIQLO](https://uniqlo.com) e-com
 
 ### AI Coding
 
+![pi](https://img.shields.io/badge/pi-000?logo=pinetwork&logoColor=fff)
 ![opencode](https://img.shields.io/badge/opencode-000?logo=framework&logoColor=fff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff)
 
