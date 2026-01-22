@@ -275,7 +275,6 @@ More libraries and tools I've used are in my [GitHub Stars lists](https://github
 ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=normful&count_private=true&show_icons=true" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=normful" alt="github streak stats"/>
 
 ### Contact
 
