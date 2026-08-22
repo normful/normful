@@ -10,6 +10,8 @@ Most recently, I engineered solutions for the [UNIQLO](https://uniqlo.com) e-com
 
 直近では、日本有数の企業であるファーストリテイリングにて、[UNIQLO](https://uniqlo.com)のECサイト向けソリューション開発を担当しました。
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/normful/svg?template=receipt&color=YlGnBu&graph=1&rank=percent&tokens=compact&cost=full)](https://tokscale.ai/u/normful)
+
 ### Software Interests
 
 - AI-assisted software development (agentic coding)
